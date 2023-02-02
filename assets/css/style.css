@@ -138,7 +138,7 @@ html {
 
 .nav-pc .subnav li:hover a,
 .nav-pc>li:hover>a {
-    color: rgb(26, 77, 61);
+    color: rgb(17, 131, 15);
     text-decoration: solid;
     /* border-bottom: solid 2px #009688; */
     /* background-color: #ccc; */
@@ -454,7 +454,7 @@ html {
 
 .button-88:hover {
     background: linear-gradient(0deg, rgb(57, 93, 255) 0%, rgb(0, 150, 250) 100%);
-    box-shadow: 0 0.7em 1.5em -0.5em #062d55;
+    box-shadow: 0 0.7em 1.5em -0.5em #1c8cfc;
 }
 
 .button-88:active {
@@ -662,7 +662,7 @@ html {
   }
   
   .button-30:hover {
-    box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    box-shadow: rgba(87, 82, 114, 0.4) 0 4px 8px, rgba(112, 106, 146, 0.3) 0 7px 13px -3px, #626289 0 -3px 0 inset;
     transform: translateY(-2px);
   }
   
